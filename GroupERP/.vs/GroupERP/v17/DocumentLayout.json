@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92AE1C6B-F050-438F-A19E-9C337B6DF7A7}|GroupERPCA\\GroupERPCA.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AE1C6B-F050-438F-A19E-9C337B6DF7A7}|GroupERPCA\\GroupERPCA.csproj|solutionrelative:grouperpca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D41BC7B-8EBB-4060-B789-310615F6E34A}|GroupERPCore\\GroupERPCore.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpcore\\class\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D41BC7B-8EBB-4060-B789-310615F6E34A}|GroupERPCore\\GroupERPCore.csproj|solutionrelative:grouperpcore\\class\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D41BC7B-8EBB-4060-B789-310615F6E34A}|GroupERPCore\\GroupERPCore.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpcore\\class\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D41BC7B-8EBB-4060-B789-310615F6E34A}|GroupERPCore\\GroupERPCore.csproj|solutionrelative:grouperpcore\\class\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpbusiness\\classes\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|solutionrelative:grouperpbusiness\\classes\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpbusiness\\classes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|solutionrelative:grouperpbusiness\\classes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpbusiness\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|solutionrelative:grouperpbusiness\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpbusiness\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977DF6BB-026D-4B55-B865-CC96E452E3BC}|GroupERPBusiness\\GroupERPBusiness.csproj|solutionrelative:grouperpbusiness\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D41BC7B-8EBB-4060-B789-310615F6E34A}|GroupERPCore\\GroupERPCore.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpcore\\class\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D41BC7B-8EBB-4060-B789-310615F6E34A}|GroupERPCore\\GroupERPCore.csproj|solutionrelative:grouperpcore\\class\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B9F223-C38D-463B-BA1A-CA411FBEEF2A}|GroupERPDatabase\\GroupERPDatabase.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpdatabase\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B9F223-C38D-463B-BA1A-CA411FBEEF2A}|GroupERPDatabase\\GroupERPDatabase.csproj|solutionrelative:grouperpdatabase\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B9F223-C38D-463B-BA1A-CA411FBEEF2A}|GroupERPDatabase\\GroupERPDatabase.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpdatabase\\grouperpdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14B9F223-C38D-463B-BA1A-CA411FBEEF2A}|GroupERPDatabase\\GroupERPDatabase.csproj|solutionrelative:grouperpdatabase\\grouperpdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AE1C6B-F050-438F-A19E-9C337B6DF7A7}|GroupERPCA\\GroupERPCA.csproj|c:\\users\\lenovo\\desktop\\grouperp\\grouperpca\\grouperpca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92AE1C6B-F050-438F-A19E-9C337B6DF7A7}|GroupERPCA\\GroupERPCA.csproj|solutionrelative:grouperpca\\grouperpca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupERPCA.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCA\\GroupERPCA.csproj",
+              "RelativeDocumentMoniker": "GroupERPCA\\GroupERPCA.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCA\\GroupERPCA.csproj",
+              "RelativeToolTip": "GroupERPCA\\GroupERPCA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T20:29:40.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Classes\\StudentService.cs",
+              "RelativeDocumentMoniker": "GroupERPBusiness\\Classes\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Classes\\StudentService.cs",
+              "RelativeToolTip": "GroupERPBusiness\\Classes\\StudentService.cs",
+              "ViewState": "AQIAABMAAADAzMzMzMwiwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:48:09.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Classes\\GroupService.cs",
+              "RelativeDocumentMoniker": "GroupERPBusiness\\Classes\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Classes\\GroupService.cs",
+              "RelativeToolTip": "GroupERPBusiness\\Classes\\GroupService.cs",
+              "ViewState": "AQIAAAYAAAAAzczMzMwowC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:47:59.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "GroupERPBusiness\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "GroupERPBusiness\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:47:44.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "GroupERPBusiness\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPBusiness\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "GroupERPBusiness\\Interfaces\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:47:26.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPDatabase\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "GroupERPDatabase\\DAL\\Database.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPDatabase\\DAL\\Database.cs",
+              "RelativeToolTip": "GroupERPDatabase\\DAL\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:42:36.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCore\\Class\\BaseModel.cs",
+              "RelativeDocumentMoniker": "GroupERPCore\\Class\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCore\\Class\\BaseModel.cs",
+              "RelativeToolTip": "GroupERPCore\\Class\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:33:18.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCore\\Class\\Group.cs",
+              "RelativeDocumentMoniker": "GroupERPCore\\Class\\Group.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCore\\Class\\Group.cs",
+              "RelativeToolTip": "GroupERPCore\\Class\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:32:13.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCore\\Class\\Student.cs",
+              "RelativeDocumentMoniker": "GroupERPCore\\Class\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCore\\Class\\Student.cs",
+              "RelativeToolTip": "GroupERPCore\\Class\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:32:04.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCA\\Program.cs",
+              "RelativeDocumentMoniker": "GroupERPCA\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPCA\\Program.cs",
+              "RelativeToolTip": "GroupERPCA\\Program.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAQwJQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:14:10.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupERPDatabase.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPDatabase\\GroupERPDatabase.csproj",
+              "RelativeDocumentMoniker": "GroupERPDatabase\\GroupERPDatabase.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GroupERP\\GroupERPDatabase\\GroupERPDatabase.csproj",
+              "RelativeToolTip": "GroupERPDatabase\\GroupERPDatabase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T20:12:12.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

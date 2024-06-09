@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GroupERPCA/1.0.0": {
+        "dependencies": {
+          "GroupERPBusiness": "1.0.0",
+          "GroupERPCore": "1.0.0"
+        },
+        "runtime": {
+          "GroupERPCA.dll": {}
+        }
+      },
+      "GroupERPBusiness/1.0.0": {
+        "dependencies": {
+          "GroupERPCore": "1.0.0",
+          "GroupERPDatabase": "1.0.0"
+        },
+        "runtime": {
+          "GroupERPBusiness.dll": {}
+        }
+      },
+      "GroupERPCore/1.0.0": {
+        "runtime": {
+          "GroupERPCore.dll": {}
+        }
+      },
+      "GroupERPDatabase/1.0.0": {
+        "dependencies": {
+          "GroupERPCore": "1.0.0"
+        },
+        "runtime": {
+          "GroupERPDatabase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupERPCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupERPBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupERPCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupERPDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
