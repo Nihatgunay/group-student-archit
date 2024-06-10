@@ -98,10 +98,14 @@ internal class Program
                             int studentid = int.Parse(Console.ReadLine());
                             Student getstd = studentservice.Get(studentid);
                             Console.WriteLine(getstd);
+                            Group studentsgroup = groupservice.ShowStudentsGroup(studentid);
+                            Console.Write($"Group - {studentsgroup.Name}  ");
                             break;
                         case 3:
                             foreach (var std in studentservice.GetAll())
                             {
+                                Group studentsgroup2 = groupservice.ShowStudentsGroup(std.Id);
+                                Console.WriteLine($"Group - {studentsgroup2.Name}  ");
                                 Console.WriteLine(std);
                             }
                             break;
