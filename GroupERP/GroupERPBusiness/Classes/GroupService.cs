@@ -58,5 +58,9 @@ public class GroupService : IGroupService
             throw new NullReferenceException();
         }
     }
+    public Group ShowStudentsGroup(int studentid)
+    {
+        return Database.Groups.Find(x => Database.Students.Any(y => y.Id == studentid));
+    }
 
 }
