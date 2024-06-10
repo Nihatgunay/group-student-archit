@@ -9,4 +9,5 @@ public interface IGroupService
     public Group Get(int id);
     public List<Group> GetAll();
     public void AddStudentToGroup(int studentid, int groupid);
+    public Group ShowStudentsGroup(int studentid);
 }
